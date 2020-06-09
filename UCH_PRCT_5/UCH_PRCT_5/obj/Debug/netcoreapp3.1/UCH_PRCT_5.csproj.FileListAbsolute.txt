@@ -1,0 +1,11 @@
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\bin\Debug\netcoreapp3.1\UCH_PRCT_5.exe
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\bin\Debug\netcoreapp3.1\UCH_PRCT_5.deps.json
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\bin\Debug\netcoreapp3.1\UCH_PRCT_5.runtimeconfig.json
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\bin\Debug\netcoreapp3.1\UCH_PRCT_5.runtimeconfig.dev.json
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\bin\Debug\netcoreapp3.1\UCH_PRCT_5.dll
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\bin\Debug\netcoreapp3.1\UCH_PRCT_5.pdb
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\obj\Debug\netcoreapp3.1\UCH_PRCT_5.csprojAssemblyReference.cache
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\obj\Debug\netcoreapp3.1\UCH_PRCT_5.AssemblyInfoInputs.cache
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\obj\Debug\netcoreapp3.1\UCH_PRCT_5.AssemblyInfo.cs
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\obj\Debug\netcoreapp3.1\UCH_PRCT_5.dll
+C:\Users\Марат\source\repos\UCH_PRCT_5\UCH_PRCT_5\obj\Debug\netcoreapp3.1\UCH_PRCT_5.pdb
